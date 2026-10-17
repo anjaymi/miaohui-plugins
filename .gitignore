@@ -1,0 +1,7 @@
+# Public repository: documentation only; binaries are GitHub Release assets.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!LICENSE
+!LICENSE.md
