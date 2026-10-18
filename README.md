@@ -2,11 +2,11 @@
 
 本仓库只分发插件安装包、更新说明和兼容性信息。
 
-## NovelAI
+## NovelAI 0.2.7
 
 在喵绘“窗口 → 外置插件 → GitHub 插件来源”中添加 **`anjaymi/miaohui-plugins`**，检查更新并安装 NovelAI。
 
-也可在 [Releases](https://github.com/anjaymi/miaohui-plugins/releases/latest) 下载 Windows x64 插件 ZIP，再从喵绘导入。最低宿主版本：**0.355.0，Host API 1**。
+也可在 [Releases](https://github.com/anjaymi/miaohui-plugins/releases/latest) 下载 Windows x64 插件 ZIP，再从喵绘导入。最低宿主版本：**0.362.0，Host API 1**。
 
 - 按比例框选、盖印可见区域、标准尺寸生成与原位新图层回填。
 - 固定/随机画师、画师方案、通配符、WD 反推与生成记录。
